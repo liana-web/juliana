@@ -1,4 +1,4 @@
-package banking;
+1package banking;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class banking {
 
         banking banking = new banking();
 
-        System.out.println("HELLO WELCOME TO PAUL BANKING SYSTEM");
+        System.out.println("HELLO WELCOME TO JULIANA BANKING SYSTEM");
         System.out.println("What can I do for you today?");
         System.out.println("1. Banking");
         System.out.println("2. Doctor's Appointment");

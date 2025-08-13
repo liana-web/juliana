@@ -1,4 +1,4 @@
-package airfare;
+package magat;
 
 import java.util.Scanner;
 
